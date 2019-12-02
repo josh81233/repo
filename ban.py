@@ -40,8 +40,6 @@ def validate_encoding_order():
                 is_valid = False
     return is_valid
 
-
-
 if __name__ == "__main__":
     encodings = {'R':0b0001,'M':0b1010,'M1':0b1010}
     print(validate_encoding_order())
