@@ -1,1 +1,2 @@
-Class text()
+class text():
+
