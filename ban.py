@@ -38,6 +38,7 @@ def validate_encoding_order():
                 is_valid = True
             else:
                 is_valid = False
+    
     return is_valid
 
 if __name__ == "__main__":
