@@ -1,3 +1,0 @@
-[submodule "dockerimg/docker"]
-	path = dockerimg/docker
-	url = https://github.com/jenkinsci/docker.git
