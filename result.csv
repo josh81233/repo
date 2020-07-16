@@ -1,0 +1,42 @@
+Ordernum,profit,ta,total
+"[0    A1
+1    A2
+2    A3
+3    A4
+4    A5
+5    B1
+6    B2
+7    B3
+8    B4
+9    B5
+Name: OrderNum, dtype: object, 0    200.0
+1     50.0
+2    200.0
+3     50.0
+4    200.0
+5    200.0
+6     50.0
+7    200.0
+8     50.0
+9    200.0
+dtype: float64, 0    100
+1     70
+2    110
+3     80
+4    120
+5    100
+6     70
+7    110
+8     80
+9    120
+Name: Transferred Amount, dtype: int64, 0    50
+1    80
+2    40
+3    60
+4    30
+5    50
+6    80
+7    40
+8    60
+9    30
+dtype: int64]"
